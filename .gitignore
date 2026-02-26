@@ -1,0 +1,11 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local folders (โฟลเดอร์เก็บไฟล์ดาวน์โหลด)
+tmp/
+result/
+
+# Secret files (กรณีแยก Password ไว้)
+.env
